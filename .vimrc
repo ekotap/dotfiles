@@ -11,9 +11,12 @@ set hlsearch
 nnoremap <ESC><ESC> :nohl<RETURN>
 
 set expandtab
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 set autoindent
 set visualbell
 set nu
 
+let g:netrw_banner = 0
+let g:netrw_liststyle=3
+let g:netrw_sizestyle="H"
