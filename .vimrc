@@ -14,7 +14,7 @@ set expandtab
 set shiftwidth=2
 set tabstop=2
 set autoindent
-set visualbell
+set visualbell t_vb=
 set nu
 
 let g:netrw_banner = 0
