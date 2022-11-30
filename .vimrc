@@ -16,6 +16,7 @@ set tabstop=2
 set autoindent
 set visualbell t_vb=
 set nu
+set noswapfile
 
 
 let g:netrw_banner = 0
