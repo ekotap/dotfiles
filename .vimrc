@@ -17,6 +17,7 @@ set autoindent
 set visualbell t_vb=
 set nu
 
+
 let g:netrw_banner = 0
 let g:netrw_liststyle=3
 let g:netrw_sizestyle="H"
